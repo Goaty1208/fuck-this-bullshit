@@ -1,0 +1,2 @@
+C:\Users\Utente\Desktop\Bisio\test_c#\bin\Debug\net7.0\win-x64\publish\test c#.pdb
+C:\Users\Utente\Desktop\Bisio\test_c#\bin\Debug\net7.0\win-x64\publish\test c#.exe

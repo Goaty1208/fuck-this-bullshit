@@ -1,0 +1,30 @@
+C:\Users\Utente\Desktop\Bisio\test c#\bin\Debug\net7.0\test c#.exe
+C:\Users\Utente\Desktop\Bisio\test c#\bin\Debug\net7.0\test c#.deps.json
+C:\Users\Utente\Desktop\Bisio\test c#\bin\Debug\net7.0\test c#.runtimeconfig.json
+C:\Users\Utente\Desktop\Bisio\test c#\bin\Debug\net7.0\test c#.dll
+C:\Users\Utente\Desktop\Bisio\test c#\bin\Debug\net7.0\test c#.pdb
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\test c#.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\test c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\test c#.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\test c#.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\test c#.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\test c#.dll
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\refint\test c#.dll
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\test c#.pdb
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\test c#.genruntimeconfig.cache
+C:\Users\Utente\Desktop\Bisio\test c#\obj\Debug\net7.0\ref\test c#.dll
+C:\Users\Utente\Desktop\Bisio\test_c#\bin\Debug\net7.0\test c#.exe
+C:\Users\Utente\Desktop\Bisio\test_c#\bin\Debug\net7.0\test c#.deps.json
+C:\Users\Utente\Desktop\Bisio\test_c#\bin\Debug\net7.0\test c#.runtimeconfig.json
+C:\Users\Utente\Desktop\Bisio\test_c#\bin\Debug\net7.0\test c#.dll
+C:\Users\Utente\Desktop\Bisio\test_c#\bin\Debug\net7.0\test c#.pdb
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\test c#.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\test c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\test c#.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\test c#.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\test c#.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\test c#.dll
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\refint\test c#.dll
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\test c#.pdb
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\test c#.genruntimeconfig.cache
+C:\Users\Utente\Desktop\Bisio\test_c#\obj\Debug\net7.0\ref\test c#.dll

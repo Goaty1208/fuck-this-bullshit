@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEXg+kZH/oED0vbC5zB8eO6/IEAH2xJe3sPG4wkU4Qnfa9MKOtalzwpdsYaEWKbEU85AZe/O2X9dfPwJDMoV4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\Bisio\\test_c#\\test c#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utente\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.8\\microsoft.netcore.app.runtime.win-x64.7.0.8.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.8.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.8\\microsoft.aspnetcore.app.runtime.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
